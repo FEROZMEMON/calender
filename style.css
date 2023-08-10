@@ -1,0 +1,32 @@
+.a{
+    text-align: center;
+}
+.b{
+    text-align: center;
+}
+.orange{
+    width: 500px;
+    height: 400px;
+    border: solid white;
+    margin: 0 auto;
+    background-color: white;
+}
+.blue{
+    color:lightseagreen;
+}
+.c{
+    border: solid black 1px;
+}
+.d{
+    color: #af2550;
+}
+.r{
+    padding: 8rem;
+    background-color: blueviolet;
+    
+    
+}
+.t{
+    text-align: center;
+    margin: 0 auto
+}
